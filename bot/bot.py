@@ -5,10 +5,10 @@ import time
 import re
 
 # Токен вашего бота
-TOKEN = "8165763640:AAEohXwM1w0tfOq9qZYMp19gYgEMftllNTI"
+TOKEN = ""
 
 # Список администраторов 
-ADMINS = [1572734863, 1471660398]
+ADMINS = []
 
 # Ограничение на количество сообщений и время ожидания
 MESSAGE_LIMIT = 15  # Увеличили лимит сообщений
